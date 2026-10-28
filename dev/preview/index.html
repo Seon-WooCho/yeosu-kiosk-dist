@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>여수 AI 스마트 여행안내</title>
+<link rel="stylesheet" href="css/v3.css">
+</head>
+<body>
+<!--
+  화면 구성 v3 — 시안 '인터페이스대지 8' (2026-10-28)
+  ┌ 메인: 야경 띠 + 축제 영상 2칸(위아래 교차 재생)
+  ├ 10경 지도: 제목 + 왼쪽 10경 목록 + 오른쪽 지도(번호 핀)
+  ├ 10경 상세: 왼쪽 목록 그대로 + 오른쪽 확대 지도(지도/영상 전환, 되돌리기) + 이름 줄 + 소개·이용 정보(스크롤)
+  ├ AI 여행 가이드 카드: 왼쪽 버튼은 메인에서 '여행지도', 지도·상세에서 '축제홍보'
+  └ 맨 아래 바: 처음 화면 · 4개국어 · 여수시(관리자: 5번 터치)
+  그림은 assets/v3 (tools/make-v3-assets.py), 내용은 구글 시트(data/kiosk-data.json). 이전 화면은 v2.html
+-->
+<div class="stage-wrap">
+<main class="stage" id="stage">
+
+  <section class="scr" id="homePanel">
+    <img class="bg" src="assets/v3/top-main.jpg" alt="여수 야경" style="top:0;height:197px">
+    <div class="slots" id="slots">
+      <div class="slot" data-slot="0"><div class="slot-media"></div><span class="play"></span><span class="slot-cap"></span></div>
+      <div class="slot" data-slot="1"><div class="slot-media"></div><span class="play"></span><span class="slot-cap"></span></div>
+    </div>
+    <button class="snd" id="soundBtn"><span id="soundLabel"></span></button>
+    <p class="empty" id="homeEmpty" hidden></p>
+  </section>
+
+  <section class="scr" id="subPanel" hidden>
+    <img class="bg" id="subBg" src="assets/v3/sub-map.jpg" alt="" style="top:0;height:1492px">
+    <div class="list" id="list"></div>
+
+    <div class="layer" id="mapLayer"><div id="pins"></div></div>
+
+    <div class="layer" id="detailLayer" hidden>
+      <div class="zbox" id="zbox">
+        <img id="zoomImg" alt="">
+        <div class="zvideo" id="dMedia" hidden></div>
+        <div class="zctl">
+          <button class="zt" data-view="map"><span data-t="view.map"></span><i></i></button>
+          <button class="zt" data-view="video"><span data-t="view.video"></span><i></i></button>
+          <button class="zback" id="dBack" aria-label="지도로"></button>
+        </div>
+      </div>
+      <div class="d-head"><span class="d-no" id="dNo"></span><h2 id="dName"></h2><button class="d-snd" id="dSound"></button></div>
+      <div class="d-body" id="dBody"></div>
+    </div>
+  </section>
+
+  <footer class="guide" id="guide">
+    <img id="guideImg" src="assets/v3/guide-main.jpg" alt="AI 여행 가이드">
+    <div class="bubble" id="bubble"></div>
+    <button class="hot" data-act="left" id="leftBtn" style="left:52px;top:86px;width:142px;height:158px"><span class="lbl sq" id="leftLbl"></span></button>
+    <button class="hot" data-act="greet" style="left:200px;top:30px;width:250px;height:215px" aria-label="AI 가이드"></button>
+    <button class="hot" data-act="talk" style="left:690px;top:46px;width:320px;height:52px" aria-label="무엇이든 물어보세요"><span class="lbl" data-t="btn.ask"></span></button>
+    <button class="hot" data-act="talk" style="left:52px;top:252px;width:404px;height:54px"><span class="lbl blue" data-t="btn.talk"></span></button>
+    <button class="hot tog" data-act="voiceOn" style="left:473px;top:255px;width:221px;height:48px"><span class="lbl" data-t="btn.voiceOn"></span></button>
+    <button class="hot tog" data-act="mute" style="left:703px;top:255px;width:146px;height:48px"><span class="lbl" data-t="btn.mute"></span></button>
+    <button class="hot" data-act="replay" style="left:857px;top:255px;width:170px;height:48px"><span class="lbl" data-t="btn.replay"></span></button>
+  </footer>
+
+  <nav class="bar" id="bar">
+    <img src="assets/v3/bar.jpg" alt="">
+    <button class="hot" data-act="home" style="left:80px;top:10px;width:200px;height:76px"><span class="lbl" data-t="btn.home"></span></button>
+    <button class="hot lang" data-lang="ko" style="left:420px;top:10px;width:88px;height:76px" aria-label="한국어"></button>
+    <button class="hot lang" data-lang="en" style="left:510px;top:10px;width:62px;height:76px" aria-label="English"></button>
+    <button class="hot lang" data-lang="ja" style="left:574px;top:10px;width:78px;height:76px" aria-label="日本語"></button>
+    <button class="hot lang" data-lang="zh" style="left:654px;top:10px;width:66px;height:76px" aria-label="中文"></button>
+    <button class="hot" data-act="admin" style="left:815px;top:10px;width:180px;height:76px" aria-label="여수시"></button>
+  </nav>
+
+  <div class="listening" id="listening" hidden>
+    <div class="wave"><i></i><i></i><i></i><i></i><i></i></div>
+    <p id="listenText"></p>
+    <button id="listenStop" data-t="stop"></button>
+  </div>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal-box"><button class="modal-x" id="modalX" aria-label="닫기">✕</button><div id="modalBody"></div></div>
+  </div>
+  <div class="toast" id="toast"></div>
+</main>
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/sheet-data.js"></script>
+<script src="js/bridge.js"></script>
+<script src="js/device-report.js"></script>
+<script src="js/v2-qa.js"></script>
+<script src="js/v3-app.js"></script>
+</body>
+</html>

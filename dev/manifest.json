@@ -1,0 +1,18 @@
+{
+ "schema": 1,
+ "channel": "dev",
+ "publishedAt": "2026-10-28T05:26:56.237Z",
+ "web": {
+  "version": 22,
+  "file": "web-22.zip",
+  "sha256": "ead23476c598c1098b6a669445a4d04c7ef37abca029dae7302abe319b28b21a",
+  "minNative": 10
+ },
+ "apk": {
+  "versionCode": 10,
+  "versionName": "0.1.10-dev.006d9f2",
+  "file": "app-10.apk",
+  "sha256": "bb4072b59fbf316fc8f6cd46c9365f9421d0dbe36deb27c05322c1630815fde6",
+  "nativeHash": "af631cbcf87e774d5008e08d0e5efab33af14080"
+ }
+}

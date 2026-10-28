@@ -1,0 +1,3710 @@
+{
+ "schema": 1,
+ "generatedAt": "2026-10-28T05:25:19.323Z",
+ "source": "google-sheet",
+ "mainMedia": [
+  {
+   "order": 1,
+   "type": "video",
+   "title": {
+    "ko": "2026여수세계섬박람회 종합홍보영상",
+    "en": "2026 World Island Fair Yeosu: Promotional Video",
+    "ja": "2026麗水世界島博覧会 総合PR映像",
+    "zh": "2026丽水世界岛屿博览会 综合宣传片"
+   },
+   "media": {
+    "kind": "youtube",
+    "url": "https://youtu.be/kSi7cCsr65Y",
+    "id": "kSi7cCsr65Y",
+    "thumb": "https://img.youtube.com/vi/kSi7cCsr65Y/hqdefault.jpg"
+   },
+   "poster": {
+    "kind": "url",
+    "url": "https://img.youtube.com/vi/kSi7cCsr65Y/hqdefault.jpg",
+    "src": "https://img.youtube.com/vi/kSi7cCsr65Y/hqdefault.jpg"
+   },
+   "imageSeconds": 10,
+   "start": null,
+   "end": "2026-11-04",
+   "isDefault": false
+  },
+  {
+   "order": 2,
+   "type": "video",
+   "title": {
+    "ko": "2026여수세계섬박람회 공식 홍보 영상",
+    "en": "2026 World Island Fair Yeosu: Official Video",
+    "ja": "2026麗水世界島博覧会 公式PR映像",
+    "zh": "2026丽水世界岛屿博览会 官方宣传片"
+   },
+   "media": {
+    "kind": "youtube",
+    "url": "https://youtu.be/dDygq0uEATo",
+    "id": "dDygq0uEATo",
+    "thumb": "https://img.youtube.com/vi/dDygq0uEATo/hqdefault.jpg"
+   },
+   "poster": {
+    "kind": "url",
+    "url": "https://img.youtube.com/vi/dDygq0uEATo/hqdefault.jpg",
+    "src": "https://img.youtube.com/vi/dDygq0uEATo/hqdefault.jpg"
+   },
+   "imageSeconds": 10,
+   "start": null,
+   "end": "2026-11-04",
+   "isDefault": false
+  },
+  {
+   "order": 3,
+   "type": "video",
+   "title": {
+    "ko": "섬박람회 콘텐츠 홍보영상",
+    "en": "World Island Fair Highlights",
+    "ja": "島博覧会 コンテンツ紹介映像",
+    "zh": "岛屿博览会 内容介绍片"
+   },
+   "media": {
+    "kind": "youtube",
+    "url": "https://youtu.be/RSz8slZFdBY",
+    "id": "RSz8slZFdBY",
+    "thumb": "https://img.youtube.com/vi/RSz8slZFdBY/hqdefault.jpg"
+   },
+   "poster": {
+    "kind": "url",
+    "url": "https://img.youtube.com/vi/RSz8slZFdBY/hqdefault.jpg",
+    "src": "https://img.youtube.com/vi/RSz8slZFdBY/hqdefault.jpg"
+   },
+   "imageSeconds": 10,
+   "start": null,
+   "end": "2026-11-04",
+   "isDefault": false
+  },
+  {
+   "order": 4,
+   "type": "video",
+   "title": {
+    "ko": "이젠 여수 '섬' 바다!",
+    "en": "Now It's Yeosu Island Sea!",
+    "ja": "麗水の島と海へ!",
+    "zh": "来丽水看海岛吧！"
+   },
+   "media": {
+    "kind": "youtube",
+    "url": "https://youtu.be/BdmKS9x6ers",
+    "id": "BdmKS9x6ers",
+    "thumb": "https://img.youtube.com/vi/BdmKS9x6ers/hqdefault.jpg"
+   },
+   "poster": {
+    "kind": "url",
+    "url": "https://img.youtube.com/vi/BdmKS9x6ers/hqdefault.jpg",
+    "src": "https://img.youtube.com/vi/BdmKS9x6ers/hqdefault.jpg"
+   },
+   "imageSeconds": 10,
+   "start": null,
+   "end": "2026-11-04",
+   "isDefault": false
+  },
+  {
+   "order": 5,
+   "type": "video",
+   "title": {
+    "ko": "여수의 섬, 부도",
+    "en": "Islands of Yeosu: Budo",
+    "ja": "麗水の島、ブド(Budo)",
+    "zh": "丽水的岛屿：Budo"
+   },
+   "media": {
+    "kind": "youtube",
+    "url": "https://youtu.be/4rfdfNhBkRY",
+    "id": "4rfdfNhBkRY",
+    "thumb": "https://img.youtube.com/vi/4rfdfNhBkRY/hqdefault.jpg"
+   },
+   "poster": {
+    "kind": "url",
+    "url": "https://img.youtube.com/vi/4rfdfNhBkRY/hqdefault.jpg",
+    "src": "https://img.youtube.com/vi/4rfdfNhBkRY/hqdefault.jpg"
+   },
+   "imageSeconds": 10,
+   "start": null,
+   "end": null,
+   "isDefault": false
+  },
+  {
+   "order": 99,
+   "type": "image",
+   "title": {
+    "ko": "기본 화면",
+    "en": "Default",
+    "ja": "デフォルト",
+    "zh": "默认"
+   },
+   "media": null,
+   "poster": null,
+   "imageSeconds": 10,
+   "start": null,
+   "end": null,
+   "isDefault": true
+  }
+ ],
+ "tenSights": [
+  {
+   "no": 1,
+   "name": {
+    "ko": "오동도",
+    "en": "Odongdo",
+    "ja": "梧桐島",
+    "zh": "梧桐岛"
+   },
+   "aliases": [
+    "동백섬",
+    "오동섬"
+   ],
+   "intro": {
+    "ko": "여수 도심에서 가까운 섬으로, 섬을 덮은 동백나무가 겨울부터 봄까지 붉게 피어납니다. 방파제 길을 따라 걸어 들어가며 해안 절벽 산책로와 음악분수를 즐길 수 있어요.",
+    "en": "An island close to downtown Yeosu, covered with camellia trees that bloom red from winter to spring. Walk in along the breakwater path to enjoy cliffside coastal trails and the musical fountain.",
+    "ja": "麗水の市街地から近い島で、島を覆う椿が冬から春にかけて赤く咲きます。防波堤の道を歩いて渡り、海岸の崖沿いの散策路や音楽噴水を楽しめます。",
+    "zh": "离丽水市区很近的小岛，岛上的山茶花从冬天到春天红艳盛开。沿着防波堤步行进岛，可以漫步海岸峭壁步道，欣赏音乐喷泉。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 오동도로 222",
+    "en": "222 Odongdo-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 222 Odongdo-ro",
+    "zh": "全南光州统合特别市 丽水市 222 Odongdo-ro"
+   },
+   "tel": "061-659-5708",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "오동도 입구 주차장에서 방파제(약 768m)를 따라 걸어서 약 15분. 동백열차나 자전거로도 갈 수 있음. 여수 도심에서 차로 약 10분",
+    "en": "About a 15-minute walk along the breakwater (approx. 768 m) from the Odongdo entrance parking lot. You can also take the Camellia Train or ride a bicycle. About 10 minutes by car from downtown Yeosu.",
+    "ja": "梧桐島入口の駐車場から防波堤(約768m)沿いに徒歩約15分。椿列車や自転車でも行けます。麗水市街から車で約10分。",
+    "zh": "从梧桐岛入口停车场沿防波堤(约768米)步行约15分钟，也可乘坐山茶花小火车或骑自行车前往。从丽水市区开车约10分钟。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "자연",
+    "산책",
+    "동백"
+   ]
+  },
+  {
+   "no": 2,
+   "name": {
+    "ko": "거문도·백도",
+    "en": "Geomundo & Baekdo",
+    "ja": "巨文島・白島",
+    "zh": "巨文岛·白岛"
+   },
+   "aliases": [
+    "거문도",
+    "백도"
+   ],
+   "intro": {
+    "ko": "거문도는 남해안에서 처음 불을 밝힌 등대가 있는 섬이고, 백도는 39개 무인도로 이루어진 명승입니다. 희귀 조류와 식물이 그대로 남아 있어요.",
+    "en": "Geomundo is home to the first lighthouse lit on Korea's south coast, and Baekdo is a scenic site made up of 39 uninhabited islets. Rare birds and plants remain untouched.",
+    "ja": "巨文島は南海岸で最初に灯がともった灯台がある島で、白島は39の無人島からなる名勝です。珍しい鳥や植物がそのまま残っています。",
+    "zh": "巨文岛上有韩国南海岸第一座点亮的灯塔，白岛是由39座无人岛组成的名胜。珍稀鸟类和植物保存完好。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 삼산면 거문리",
+    "en": "Geomun-ri, Samsan-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Geomun-ri, Samsan-myeon",
+    "zh": "全南光州统合特别市 丽水市 Geomun-ri, Samsan-myeon"
+   },
+   "tel": "1330",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "여객선으로 거문도까지 이동. 백도는 거문도에서 유람선을 타고 약 40분 돌아보며, 섬에 내릴 수는 없음",
+    "en": "Take a passenger ferry to Geomundo. Baekdo can be toured by sightseeing boat from Geomundo (about 40 minutes); landing on the islands is not allowed.",
+    "ja": "旅客船で巨文島へ。白島は巨文島から遊覧船で約40分かけて巡り、島に上陸することはできません。",
+    "zh": "乘客船前往巨文岛。白岛需从巨文岛乘游船环游约40分钟，不能登岛。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "섬",
+    "자연"
+   ]
+  },
+  {
+   "no": 3,
+   "name": {
+    "ko": "향일암",
+    "en": "Hyangiram Hermitage",
+    "ja": "向日庵",
+    "zh": "向日庵"
+   },
+   "aliases": [
+    "향일암 일출"
+   ],
+   "intro": {
+    "ko": "돌산도 끝 금오산 절벽에 자리한 암자입니다. 바다 위로 뜨는 해와 지는 해를 모두 볼 수 있는 해맞이 명소예요.",
+    "en": "A hermitage perched on the cliffs of Geumosan at the tip of Dolsando. A famous spot to watch both the sunrise and the sunset over the sea.",
+    "ja": "突山島の先端、金鰲山の崖に建つ庵です。海から昇る朝日と沈む夕日の両方を見られる日の出の名所です。",
+    "zh": "坐落在突山岛尽头金鳌山峭壁上的庵寺。可以同时欣赏海上日出和日落，是著名的观日出胜地。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 향일암로 60",
+    "en": "60 Hyangiram-ro, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 60 Hyangiram-ro, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 60 Hyangiram-ro, Dolsan-eup"
+   },
+   "tel": "061-641-2111",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "시내버스 111번·111-1번·116번을 타고 임포(향일암) 정류장 하차. 여수엑스포역에서는 2번 탑승 후 서교동천주교성당에서 111번으로 환승",
+    "en": "Take city bus 111, 111-1 or 116 and get off at Impo (Hyangiram) stop. From Yeosu-EXPO Station, take bus 2 and transfer to bus 111 at Seogyo-dong Catholic Church.",
+    "ja": "市内バス111番・111-1番・116番に乗り、イムポ(向日庵)停留所で下車。麗水EXPO駅からは2番に乗り、西橋洞カトリック教会で111番に乗り換え。",
+    "zh": "乘坐市内公交111路、111-1路或116路，在林浦(向日庵)站下车。从丽水世博站乘2路，在西桥洞天主教堂换乘111路。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "일출",
+    "사찰"
+   ]
+  },
+  {
+   "no": 4,
+   "name": {
+    "ko": "금오도 비렁길",
+    "en": "Geumodo Bireong-gil Trail",
+    "ja": "金鰲島ビリョンギル",
+    "zh": "金鳌岛悬崖步道"
+   },
+   "aliases": [
+    "비렁길",
+    "금오도"
+   ],
+   "intro": {
+    "ko": "금오도 해안 절벽을 따라 이어지는 약 18.5km의 탐방로입니다. 다도해 풍경을 보며 걸을 수 있고, 구간마다 마을로 내려올 수 있어 체력에 맞춰 걸을 수 있어요.",
+    "en": "A trail of about 18.5 km along the coastal cliffs of Geumodo. Enjoy views of the island-dotted sea, and since each section leads down to a village, you can walk as far as you like.",
+    "ja": "金鰲島の海岸の崖に沿って続く約18.5kmの散策路です。多島海の景色を眺めながら歩け、区間ごとに村へ下りられるので体力に合わせて歩けます。",
+    "zh": "沿金鳌岛海岸峭壁延伸约18.5公里的步道。可边走边欣赏多岛海美景，每段都能下到村庄，可按体力选择路程。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 남면 심장리",
+    "en": "Simjang-ri, Nam-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Simjang-ri, Nam-myeon",
+    "zh": "全南光州统合特别市 丽水市 Simjang-ri, Nam-myeon"
+   },
+   "tel": "1330",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "여객선으로 금오도 이동, 함구미 선착장에서 출발. 전체 종주 약 8시간 30분",
+    "en": "Take a ferry to Geumodo and start from Hamgumi Pier. The full trail takes about 8 hours 30 minutes.",
+    "ja": "旅客船で金鰲島へ渡り、ハムグミ船着場から出発。全区間の踏破は約8時間30分。",
+    "zh": "乘船前往金鳌岛，从咸九味码头出发。全程徒步约8小时30分钟。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "걷기",
+    "섬"
+   ]
+  },
+  {
+   "no": 5,
+   "name": {
+    "ko": "여수세계박람회장",
+    "en": "Expo 2012 Yeosu Site",
+    "ja": "麗水世界博覧会場",
+    "zh": "丽水世博会场"
+   },
+   "aliases": [
+    "박람회장",
+    "엑스포"
+   ],
+   "intro": {
+    "ko": "2012년 여수세계박람회가 열렸던 곳으로, 지금은 해양레저관광지예요. 수변공원 산책, 빅오쇼, 스카이타워, 아쿠아플라넷을 한 곳에서 즐길 수 있어요.",
+    "en": "The site of Expo 2012 Yeosu, now a marine leisure destination. Enjoy the waterfront park, the Big-O Show, the Sky Tower and Aqua Planet all in one place.",
+    "ja": "2012年麗水世界博覧会の会場で、今は海洋レジャー観光地です。水辺公園の散策、ビッグオーショー、スカイタワー、アクアプラネットを一か所で楽しめます。",
+    "zh": "2012年丽水世博会举办地，如今是海洋休闲观光地。滨水公园散步、Big-O秀、天空塔、Aqua Planet水族馆都能一站式体验。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 박람회길 1",
+    "en": "1 Bangnamhoe-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1 Bangnamhoe-gil",
+    "zh": "全南光州统合特别市 丽水市 1 Bangnamhoe-gil"
+   },
+   "tel": "1577-2012",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "실내",
+    "가족"
+   ]
+  },
+  {
+   "no": 6,
+   "name": {
+    "ko": "진남관",
+    "en": "Jinnamgwan Hall",
+    "ja": "鎮南館",
+    "zh": "镇南馆"
+   },
+   "aliases": [
+    "여수 진남관"
+   ],
+   "intro": {
+    "ko": "임진왜란 뒤 세워진 국보 목조 건물로, 조선 수군 전라좌수영의 본영이었어요. 남아 있는 지방 관아 건물 중 가장 크다고 알려져 있어요.",
+    "en": "A National Treasure wooden building erected after the Imjin War, once the headquarters of the Joseon navy's Jeolla Left Naval Command. It is known as the largest surviving local government building.",
+    "ja": "壬辰倭乱の後に建てられた国宝の木造建築で、朝鮮水軍・全羅左水営の本営でした。現存する地方官衙の建物で最大といわれています。",
+    "zh": "壬辰倭乱后建造的国宝级木结构建筑，曾是朝鲜水军全罗左水营的本营。据说是现存最大的地方官衙建筑。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 동문로 11",
+    "en": "11 Dongmun-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 11 Dongmun-ro",
+    "zh": "全南光州统合特别市 丽水市 11 Dongmun-ro"
+   },
+   "tel": "061-659-5710",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "no": 7,
+   "name": {
+    "ko": "여수밤바다·산단야경",
+    "en": "Yeosu Night Sea & Industrial Complex Night View",
+    "ja": "麗水の夜の海・産業団地夜景",
+    "zh": "丽水夜海·产业园区夜景"
+   },
+   "aliases": [
+    "밤바다",
+    "야경"
+   ],
+   "intro": {
+    "ko": "바다를 낀 도심 야경과 여수국가산업단지 조명을 함께 볼 수 있어요. 진남관 경관조명, 오동도 음악분수, 돌산대교와 장군도 야경이 대표적이에요.",
+    "en": "See the city's seaside night view together with the lights of the Yeosu National Industrial Complex. Highlights include the Jinnamgwan lighting, the Odongdo musical fountain, and Dolsan Bridge and Janggundo at night.",
+    "ja": "海に面した市街地の夜景と麗水国家産業団地の灯りを一緒に楽しめます。鎮南館のライトアップ、梧桐島の音楽噴水、突山大橋と将軍島の夜景が代表的です。",
+    "zh": "可同时欣赏临海市区夜景和丽水国家产业园区的灯光。镇南馆景观照明、梧桐岛音乐喷泉、突山大桥和将军岛夜景最具代表性。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 종화동",
+    "en": "Jonghwa-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Jonghwa-dong",
+    "zh": "全南光州统合特别市 丽水市 Jonghwa-dong"
+   },
+   "tel": "1330",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "야경"
+   ]
+  },
+  {
+   "no": 8,
+   "name": {
+    "ko": "영취산 진달래",
+    "en": "Yeongchwisan Azaleas",
+    "ja": "霊鷲山のツツジ",
+    "zh": "灵鹫山金达莱"
+   },
+   "aliases": [
+    "영취산",
+    "진달래"
+   ],
+   "intro": {
+    "ko": "매년 4월 초 진달래가 산 전체를 붉게 물들이는 봄꽃 명소예요. 정상에서는 여수 시내와 산단, 남해 바다가 한눈에 들어와요.",
+    "en": "Every early April, azaleas turn the whole mountain red. From the summit you can see downtown Yeosu, the industrial complex and the southern sea at a glance.",
+    "ja": "毎年4月初めにツツジが山全体を赤く染める春の花の名所です。山頂からは麗水市街と産業団地、南海の海が一望できます。",
+    "zh": "每年4月初，金达莱把整座山染红，是赏春花的名胜。从山顶可一览丽水市区、产业园区和南海。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 상암동",
+    "en": "Sangam-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Sangam-dong",
+    "zh": "全南光州统合特别市 丽水市 Sangam-dong"
+   },
+   "tel": "1330",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "상암초등학교에서 출발해 봉우재를 거쳐 정상까지, 흥국사 방향으로 하산. 코스에 따라 약 1~3시간",
+    "en": "Start at Sangam Elementary School, go via Bongujae Pass to the summit, and descend toward Heungguksa Temple. About 1–3 hours depending on the route.",
+    "ja": "上岩小学校から出発し、ポンウジェ峠を経て山頂へ、興国寺方面に下山。コースにより約1〜3時間。",
+    "zh": "从上岩小学出发，经Bongujae山口登顶，再向兴国寺方向下山。视路线约需1~3小时。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "봄",
+    "등산"
+   ]
+  },
+  {
+   "no": 9,
+   "name": {
+    "ko": "여수해상케이블카",
+    "en": "Yeosu Maritime Cable Car",
+    "ja": "麗水海上ケーブルカー",
+    "zh": "丽水海上缆车"
+   },
+   "aliases": [
+    "케이블카",
+    "해상케이블카"
+   ],
+   "intro": {
+    "ko": "돌산과 자산공원을 잇는 약 1.5km의 국내 첫 해상 케이블카예요. 바닥이 투명한 크리스탈 캐빈도 있고, 바다 위에서 여수 밤바다와 다도해를 볼 수 있어요.",
+    "en": "Korea's first sea-crossing cable car, linking Dolsan and Jasan Park over about 1.5 km. Crystal cabins with glass floors let you see Yeosu's night sea and islands from above the water.",
+    "ja": "突山と紫山公園を結ぶ約1.5kmの韓国初の海上ケーブルカーです。床が透明なクリスタルキャビンもあり、海の上から麗水の夜の海と多島海を眺められます。",
+    "zh": "连接突山与紫山公园、全长约1.5公里的韩国首条海上缆车。还有透明地板的水晶车厢，可在海面上空欣赏丽水夜海和多岛海。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 돌산로 3600-1",
+    "en": "3600-1 Dolsan-ro, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 3600-1 Dolsan-ro, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 3600-1 Dolsan-ro, Dolsan-eup"
+   },
+   "tel": "061-643-1781",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "돌산공원 탑승장 또는 오동도 주차타워(자산공원) 탑승장 이용",
+    "en": "Board at the Dolsan Park station or the Odongdo Parking Tower (Jasan Park) station.",
+    "ja": "突山公園乗り場または梧桐島駐車タワー(紫山公園)乗り場をご利用ください。",
+    "zh": "可在突山公园站或梧桐岛停车塔(紫山公园)站乘坐。"
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "가족",
+    "야경"
+   ]
+  },
+  {
+   "no": 10,
+   "name": {
+    "ko": "이순신대교",
+    "en": "Yi Sun-sin Bridge",
+    "ja": "李舜臣大橋",
+    "zh": "李舜臣大桥"
+   },
+   "aliases": [
+    "이순신 대교"
+   ],
+   "intro": {
+    "ko": "여수와 광양을 잇는 현수교로, 순수 국내 기술로 지어졌어요. 바다 경관과 야경이 볼만해요.",
+    "en": "A suspension bridge linking Yeosu and Gwangyang, built entirely with Korean technology. The sea views and night scenery are worth seeing.",
+    "ja": "麗水と光陽を結ぶ吊り橋で、韓国独自の技術で建設されました。海の景色と夜景が見どころです。",
+    "zh": "连接丽水与光阳的悬索桥，完全采用韩国本土技术建造。海景和夜景值得一看。"
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 묘도동",
+    "en": "Myodo-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Myodo-dong",
+    "zh": "全南光州统合特别市 丽水市 Myodo-dong"
+   },
+   "tel": "1330",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "mapImage": null,
+   "photo": null,
+   "video": null,
+   "pin": {
+    "x": null,
+    "y": null
+   },
+   "tags": [
+    "야경",
+    "드라이브"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "id": "T001",
+   "category": "관광지",
+   "name": {
+    "ko": "이순신광장",
+    "en": "Yi Sun-sin Square",
+    "ja": "李舜臣広場",
+    "zh": "李舜臣广场"
+   },
+   "aliases": [
+    "이순신 광장"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 중앙동 383",
+    "en": "383 Jungang-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 383 Jungang-dong",
+    "zh": "全南光州统合特别市 丽水市 383 Jungang-dong"
+   },
+   "tel": "061-659-4629",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사",
+    "야경"
+   ]
+  },
+  {
+   "id": "T002",
+   "category": "관광지",
+   "name": {
+    "ko": "아쿠아플라넷 여수",
+    "en": "Aqua Planet Yeosu",
+    "ja": "アクアプラネット麗水",
+    "zh": "丽水Aqua Planet水族馆"
+   },
+   "aliases": [
+    "아쿠아플라넷",
+    "수족관"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 오동도로 61-11",
+    "en": "61-11 Odongdo-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 61-11 Odongdo-ro",
+    "zh": "全南光州统合特别市 丽水市 61-11 Odongdo-ro"
+   },
+   "tel": "061-660-1111",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "실내",
+    "가족"
+   ]
+  },
+  {
+   "id": "T003",
+   "category": "관광지",
+   "name": {
+    "ko": "빅오 해상분수쇼",
+    "en": "Big-O Show",
+    "ja": "ビッグオーショー",
+    "zh": "Big-O海上喷泉秀"
+   },
+   "aliases": [
+    "빅오쇼",
+    "분수쇼"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 박람회길 1",
+    "en": "1 Bangnamhoe-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1 Bangnamhoe-gil",
+    "zh": "全南光州统合特别市 丽水市 1 Bangnamhoe-gil"
+   },
+   "tel": "1577-2012",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "야경",
+    "가족"
+   ]
+  },
+  {
+   "id": "T004",
+   "category": "관광지",
+   "name": {
+    "ko": "스카이타워 전망대",
+    "en": "Sky Tower Observatory",
+    "ja": "スカイタワー展望台",
+    "zh": "天空塔观景台"
+   },
+   "aliases": [
+    "스카이타워"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 박람회길 1",
+    "en": "1 Bangnamhoe-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1 Bangnamhoe-gil",
+    "zh": "全南光州统合特别市 丽水市 1 Bangnamhoe-gil"
+   },
+   "tel": "061-659-2065",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "전망",
+    "실내"
+   ]
+  },
+  {
+   "id": "T005",
+   "category": "관광지",
+   "name": {
+    "ko": "동백열차",
+    "en": "Camellia Train",
+    "ja": "椿列車",
+    "zh": "山茶花观光小火车"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 오동도로 222",
+    "en": "222 Odongdo-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 222 Odongdo-ro",
+    "zh": "全南光州统合特别市 丽水市 222 Odongdo-ro"
+   },
+   "tel": "061-659-1821",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "가족"
+   ]
+  },
+  {
+   "id": "T006",
+   "category": "관광지",
+   "name": {
+    "ko": "장도",
+    "en": "Jangdo Art Island",
+    "ja": "チャンド(芸術の島)",
+    "zh": "Jangdo艺术岛"
+   },
+   "aliases": [
+    "예술의 섬 장도"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 웅천동 산 272",
+    "en": "San 272, Ungcheon-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 San 272, Ungcheon-dong",
+    "zh": "全南光州统合特别市 丽水市 San 272, Ungcheon-dong"
+   },
+   "tel": "061-692-0503",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "섬",
+    "산책",
+    "예술"
+   ]
+  },
+  {
+   "id": "T007",
+   "category": "관광지",
+   "name": {
+    "ko": "여수이순신마리나",
+    "en": "Yi Sun-sin Marina",
+    "ja": "李舜臣マリーナ",
+    "zh": "李舜臣游艇码头"
+   },
+   "aliases": [
+    "이순신마리나"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 웅천동 1684",
+    "en": "1684 Ungcheon-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1684 Ungcheon-dong",
+    "zh": "全南光州统合特别市 丽水市 1684 Ungcheon-dong"
+   },
+   "tel": "061-685-5090",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "해양레저"
+   ]
+  },
+  {
+   "id": "T008",
+   "category": "관광지",
+   "name": {
+    "ko": "돌산해양낚시공원",
+    "en": "Dolsan Marine Fishing Park",
+    "ja": "突山海洋釣り公園",
+    "zh": "突山海洋钓鱼公园"
+   },
+   "aliases": [
+    "낚시공원"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 우두1길 12-13",
+    "en": "12-13 Udu 1-gil, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 12-13 Udu 1-gil, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 12-13 Udu 1-gil, Dolsan-eup"
+   },
+   "tel": "061-641-2707",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "낚시",
+    "가족"
+   ]
+  },
+  {
+   "id": "T009",
+   "category": "관광지",
+   "name": {
+    "ko": "예울마루",
+    "en": "Yeulmaru Arts Center",
+    "ja": "イェウルマル芸術センター",
+    "zh": "Yeulmaru艺术中心"
+   },
+   "aliases": [
+    "GS칼텍스 예울마루"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 예울마루로 100",
+    "en": "100 Yeulmaru-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 100 Yeulmaru-ro",
+    "zh": "全南光州统合特别市 丽水市 100 Yeulmaru-ro"
+   },
+   "tel": "061-808-7000",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "공연",
+    "실내"
+   ]
+  },
+  {
+   "id": "T010",
+   "category": "관광지",
+   "name": {
+    "ko": "진남관유물전시관",
+    "en": "Jinnamgwan Relics Exhibition Hall",
+    "ja": "鎮南館遺物展示館",
+    "zh": "镇南馆遗物展示馆"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 동문로 11",
+    "en": "11 Dongmun-ro, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 11 Dongmun-ro",
+    "zh": "全南光州统合特别市 丽水市 11 Dongmun-ro"
+   },
+   "tel": "061-659-5711",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사",
+    "실내"
+   ]
+  },
+  {
+   "id": "T011",
+   "category": "관광지",
+   "name": {
+    "ko": "여수민속전시관",
+    "en": "Yeosu Folk Exhibition Hall",
+    "ja": "麗水民俗展示館",
+    "zh": "丽水民俗展示馆"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 율촌면 서부로 1442",
+    "en": "1442 Seobu-ro, Yulchon-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1442 Seobu-ro, Yulchon-myeon",
+    "zh": "全南光州统合特别市 丽水市 1442 Seobu-ro, Yulchon-myeon"
+   },
+   "tel": "061-683-2231",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사",
+    "실내"
+   ]
+  },
+  {
+   "id": "T012",
+   "category": "관광지",
+   "name": {
+    "ko": "북한반잠수정전시관",
+    "en": "North Korean Semi-submersible Exhibition Hall",
+    "ja": "北朝鮮半潜水艇展示館",
+    "zh": "朝鲜半潜艇展示馆"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 향일암로 365",
+    "en": "365 Hyangiram-ro, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 365 Hyangiram-ro, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 365 Hyangiram-ro, Dolsan-eup"
+   },
+   "tel": "061-659-5687",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T013",
+   "category": "관광지",
+   "name": {
+    "ko": "여수 애양원 역사박물관",
+    "en": "Aeyangwon History Museum",
+    "ja": "愛養園歴史博物館",
+    "zh": "爱养院历史博物馆"
+   },
+   "aliases": [
+    "애양원"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 율촌면 도성길 30-15",
+    "en": "30-15 Doseong-gil, Yulchon-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 30-15 Doseong-gil, Yulchon-myeon",
+    "zh": "全南光州统合特别市 丽水市 30-15 Doseong-gil, Yulchon-myeon"
+   },
+   "tel": "061-682-9809",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T014",
+   "category": "관광지",
+   "name": {
+    "ko": "손양원목사 유적공원(순교기념관)",
+    "en": "Rev. Son Yang-won Memorial Park",
+    "ja": "孫良源牧師遺跡公園",
+    "zh": "孙良源牧师遗迹公园"
+   },
+   "aliases": [
+    "손양원 유적공원"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 율촌면 산돌길 70-62",
+    "en": "70-62 Sandol-gil, Yulchon-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 70-62 Sandol-gil, Yulchon-myeon",
+    "zh": "全南光州统合特别市 丽水市 70-62 Sandol-gil, Yulchon-myeon"
+   },
+   "tel": "061-682-9534",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T015",
+   "category": "관광지",
+   "name": {
+    "ko": "진남체육공원",
+    "en": "Jinnam Sports Park",
+    "ja": "鎮南体育公園",
+    "zh": "镇南体育公园"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 진남체육관길 74",
+    "en": "74 Jinnamcheyukgwan-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 74 Jinnamcheyukgwan-gil",
+    "zh": "全南光州统合特别市 丽水市 74 Jinnamcheyukgwan-gil"
+   },
+   "tel": "061-659-5870",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "공원"
+   ]
+  },
+  {
+   "id": "T016",
+   "category": "관광지",
+   "name": {
+    "ko": "여수 흥국사",
+    "en": "Heungguksa Temple",
+    "ja": "興国寺",
+    "zh": "兴国寺"
+   },
+   "aliases": [
+    "흥국사"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 흥국사길 160",
+    "en": "160 Heungguksa-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 160 Heungguksa-gil",
+    "zh": "全南光州统合特别市 丽水市 160 Heungguksa-gil"
+   },
+   "tel": "061-685-5633",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "사찰",
+    "역사"
+   ]
+  },
+  {
+   "id": "T017",
+   "category": "관광지",
+   "name": {
+    "ko": "고소대",
+    "en": "Gosodae Pavilion",
+    "ja": "姑蘇台",
+    "zh": "姑苏台"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 고소3길 13",
+    "en": "13 Goso 3-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 13 Goso 3-gil",
+    "zh": "全南光州统合特别市 丽水市 13 Goso 3-gil"
+   },
+   "tel": "061-659-4755",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T018",
+   "category": "관광지",
+   "name": {
+    "ko": "여수 통제이공 수군대첩비",
+    "en": "Tongjeigong Naval Victory Monument",
+    "ja": "統制李公水軍大捷碑",
+    "zh": "统制李公水军大捷碑"
+   },
+   "aliases": [
+    "수군대첩비"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 고소3길 13",
+    "en": "13 Goso 3-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 13 Goso 3-gil",
+    "zh": "全南光州统合特别市 丽水市 13 Goso 3-gil"
+   },
+   "tel": "061-659-4756",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T019",
+   "category": "관광지",
+   "name": {
+    "ko": "여수 선소유적",
+    "en": "Yeosu Seonso Shipyard Site",
+    "ja": "麗水船所遺跡",
+    "zh": "丽水船所遗址"
+   },
+   "aliases": [
+    "선소"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 선소마을길 33",
+    "en": "33 Seonsomaeul-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 33 Seonsomaeul-gil",
+    "zh": "全南光州统合特别市 丽水市 33 Seonsomaeul-gil"
+   },
+   "tel": "061-659-4756",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T020",
+   "category": "관광지",
+   "name": {
+    "ko": "충민사 유물관",
+    "en": "Chungminsa Relics Hall",
+    "ja": "忠愍祠遺物館",
+    "zh": "忠愍祠遗物馆"
+   },
+   "aliases": [
+    "충민사"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 덕충동",
+    "en": "Deokchung-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Deokchung-dong",
+    "zh": "全南光州统合特别市 丽水市 Deokchung-dong"
+   },
+   "tel": "061-659-5738",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T021",
+   "category": "관광지",
+   "name": {
+    "ko": "돌산향교",
+    "en": "Dolsan Hyanggyo",
+    "ja": "突山郷校",
+    "zh": "突山乡校"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 돌산로 1196-3",
+    "en": "1196-3 Dolsan-ro, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1196-3 Dolsan-ro, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 1196-3 Dolsan-ro, Dolsan-eup"
+   },
+   "tel": "010-7175-0125",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "역사"
+   ]
+  },
+  {
+   "id": "T022",
+   "category": "관광지",
+   "name": {
+    "ko": "용문사",
+    "en": "Yongmunsa Temple",
+    "ja": "龍門寺",
+    "zh": "龙门寺"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 화양면 용문사길 91",
+    "en": "91 Yongmunsa-gil, Hwayang-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 91 Yongmunsa-gil, Hwayang-myeon",
+    "zh": "全南光州统合特别市 丽水市 91 Yongmunsa-gil, Hwayang-myeon"
+   },
+   "tel": "061-682-6169",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "사찰"
+   ]
+  },
+  {
+   "id": "T023",
+   "category": "관광지",
+   "name": {
+    "ko": "은적사",
+    "en": "Eunjeoksa Temple",
+    "ja": "隠寂寺",
+    "zh": "隐寂寺"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 돌산로 1168-58",
+    "en": "1168-58 Dolsan-ro, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 1168-58 Dolsan-ro, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 1168-58 Dolsan-ro, Dolsan-eup"
+   },
+   "tel": "061-644-1864",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "사찰"
+   ]
+  },
+  {
+   "id": "T024",
+   "category": "관광지",
+   "name": {
+    "ko": "석천사",
+    "en": "Seokcheonsa Temple",
+    "ja": "石泉寺",
+    "zh": "石泉寺"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 충민사길 52-21",
+    "en": "52-21 Chungminsa-gil, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 52-21 Chungminsa-gil",
+    "zh": "全南光州统合特别市 丽水市 52-21 Chungminsa-gil"
+   },
+   "tel": "061-662-1607",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "사찰"
+   ]
+  },
+  {
+   "id": "T025",
+   "category": "관광지",
+   "name": {
+    "ko": "용월사",
+    "en": "Yongwolsa Temple",
+    "ja": "龍月寺",
+    "zh": "龙月寺"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 월전길 129-60",
+    "en": "129-60 Woljeon-gil, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 129-60 Woljeon-gil, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 129-60 Woljeon-gil, Dolsan-eup"
+   },
+   "tel": "061-644-2790",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "사찰",
+    "일출"
+   ]
+  },
+  {
+   "id": "T026",
+   "category": "관광지",
+   "name": {
+    "ko": "구봉산",
+    "en": "Gubongsan Mountain",
+    "ja": "九峰山",
+    "zh": "九峰山"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 신월동",
+    "en": "Sinwol-dong, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Sinwol-dong",
+    "zh": "全南光州统合特别市 丽水市 Sinwol-dong"
+   },
+   "tel": "061-659-4610",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "등산"
+   ]
+  },
+  {
+   "id": "T027",
+   "category": "관광지",
+   "name": {
+    "ko": "대미산",
+    "en": "Daemisan Mountain",
+    "ja": "テミサン",
+    "zh": "Daemisan山"
+   },
+   "aliases": [],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 계동해안길 11",
+    "en": "11 Gyedonghaean-gil, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 11 Gyedonghaean-gil, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 11 Gyedonghaean-gil, Dolsan-eup"
+   },
+   "tel": "061-659-4610",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "등산"
+   ]
+  },
+  {
+   "id": "T028",
+   "category": "관광지",
+   "name": {
+    "ko": "백호산 등산로",
+    "en": "Baekhosan Hiking Trail",
+    "ja": "白虎山登山道",
+    "zh": "白虎山登山路"
+   },
+   "aliases": [
+    "백호산"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 화정면 백야리",
+    "en": "Baegya-ri, Hwajeong-myeon, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Baegya-ri, Hwajeong-myeon",
+    "zh": "全南光州统合特别市 丽水市 Baegya-ri, Hwajeong-myeon"
+   },
+   "tel": "061-659-1225",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "등산"
+   ]
+  },
+  {
+   "id": "T029",
+   "category": "관광지",
+   "name": {
+    "ko": "금오산 거북등모형바위",
+    "en": "Turtle-Back Rock of Geumosan",
+    "ja": "金鰲山の亀の背岩",
+    "zh": "金鳌山龟背岩"
+   },
+   "aliases": [
+    "거북등 바위"
+   ],
+   "intro": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "address": {
+    "ko": "전남광주통합특별시 여수시 돌산읍 율림리",
+    "en": "Yullim-ri, Dolsan-eup, Yeosu-si, Jeonnam-Gwangju Integrated Special City",
+    "ja": "全南光州統合特別市 麗水市 Yullim-ri, Dolsan-eup",
+    "zh": "全南光州统合特别市 丽水市 Yullim-ri, Dolsan-eup"
+   },
+   "tel": "",
+   "hours": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "fee": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "transit": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "photo": null,
+   "tags": [
+    "자연"
+   ]
+  }
+ ],
+ "intents": [
+  {
+   "type": "소개",
+   "keywords": {
+    "ko": [
+     "어떤 곳",
+     "뭐야",
+     "뭐예요",
+     "소개",
+     "알려줘",
+     "설명해",
+     "어때",
+     "유명해",
+     "뭐가 있어"
+    ],
+    "en": [
+     "what is",
+     "tell me about",
+     "about",
+     "what's there",
+     "famous for"
+    ],
+    "ja": [
+     "どんな所",
+     "教えて",
+     "紹介",
+     "何がある",
+     "有名"
+    ],
+    "zh": [
+     "介绍",
+     "是什么",
+     "怎么样",
+     "有什么",
+     "有名"
+    ]
+   },
+   "answer": {
+    "ko": "{이름}을(를) 소개할게요. {소개}\n{이름}! {소개}\n좋은 선택이에요. {이름}은(는)요, {소개}",
+    "en": "Here's {이름}. {소개}\n{이름}: {소개}",
+    "ja": "{이름}をご紹介します。{소개}\n{이름}：{소개}",
+    "zh": "为您介绍{이름}。{소개}\n{이름}：{소개}"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "위치",
+   "keywords": {
+    "ko": [
+     "어디",
+     "어딨",
+     "위치",
+     "주소",
+     "어디에 있"
+    ],
+    "en": [
+     "where",
+     "location",
+     "address",
+     "where is"
+    ],
+    "ja": [
+     "どこ",
+     "場所",
+     "住所",
+     "どこにある"
+    ],
+    "zh": [
+     "在哪",
+     "哪里",
+     "位置",
+     "地址"
+    ]
+   },
+   "answer": {
+    "ko": "{이름}은(는) {주소}에 있어요.\n{이름} 주소는 {주소}예요. 지도에서 보여 드릴게요.",
+    "en": "{이름} is at {주소}.\nThe address of {이름} is {주소}. Let me show you on the map.",
+    "ja": "{이름}の住所は{주소}です。\n{이름}は{주소}にあります。地図でお見せしますね。",
+    "zh": "{이름}的地址是{주소}。\n{이름}位于{주소}，我在地图上为您显示。"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "가는 법",
+   "keywords": {
+    "ko": [
+     "어떻게 가",
+     "가는 길",
+     "가는 법",
+     "가려면",
+     "찾아가",
+     "버스",
+     "택시",
+     "교통",
+     "몇 번",
+     "길 알려"
+    ],
+    "en": [
+     "how to get",
+     "how do i get",
+     "way to",
+     "directions",
+     "bus",
+     "taxi",
+     "get there"
+    ],
+    "ja": [
+     "行き方",
+     "どうやって行",
+     "バス",
+     "タクシー",
+     "交通"
+    ],
+    "zh": [
+     "怎么去",
+     "怎么走",
+     "路线",
+     "公交",
+     "出租车",
+     "交通"
+    ]
+   },
+   "answer": {
+    "ko": "{이름} 가는 법이에요. {교통안내}\n{이름}까지는 이렇게 가면 돼요. {교통안내}",
+    "en": "How to get to {이름}: {교통안내}\nHere's the way to {이름}. {교통안내}",
+    "ja": "{이름}への行き方です。{교통안내}\n{이름}へはこう行けます。{교통안내}",
+    "zh": "前往{이름}的方法：{교통안내}\n去{이름}可以这样走：{교통안내}"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "운영시간",
+   "keywords": {
+    "ko": [
+     "몇 시",
+     "영업",
+     "문 열",
+     "문 닫",
+     "닫아",
+     "운영시간",
+     "몇시까지",
+     "언제까지",
+     "휴무",
+     "쉬는 날",
+     "열어"
+    ],
+    "en": [
+     "hours",
+     "open",
+     "close",
+     "opening",
+     "closed",
+     "until when"
+    ],
+    "ja": [
+     "何時",
+     "営業",
+     "開い",
+     "閉ま",
+     "休み"
+    ],
+    "zh": [
+     "几点",
+     "开放",
+     "营业",
+     "关门",
+     "休息"
+    ]
+   },
+   "answer": {
+    "ko": "{이름}은(는) {운영시간}에 운영해요.\n{이름} 운영시간은 {운영시간}이에요.",
+    "en": "{이름} is open {운영시간}.\nOpening hours for {이름}: {운영시간}.",
+    "ja": "{이름}の営業時間は{운영시간}です。",
+    "zh": "{이름}开放时间：{운영시간}。"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "요금",
+   "keywords": {
+    "ko": [
+     "얼마",
+     "요금",
+     "입장료",
+     "가격",
+     "무료",
+     "공짜",
+     "돈 내",
+     "티켓"
+    ],
+    "en": [
+     "price",
+     "fee",
+     "ticket",
+     "cost",
+     "how much",
+     "free"
+    ],
+    "ja": [
+     "料金",
+     "いくら",
+     "入場料",
+     "無料",
+     "チケット"
+    ],
+    "zh": [
+     "多少钱",
+     "门票",
+     "价格",
+     "免费",
+     "票价"
+    ]
+   },
+   "answer": {
+    "ko": "{이름} 요금은 {요금}이에요.\n{이름}은(는) {요금}이에요.",
+    "en": "{이름} costs {요금}.\nAdmission for {이름}: {요금}.",
+    "ja": "{이름}の料金は{요금}です。",
+    "zh": "{이름}票价：{요금}。"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "전화",
+   "keywords": {
+    "ko": [
+     "전화",
+     "번호",
+     "연락처",
+     "문의"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "contact",
+     "number"
+    ],
+    "ja": [
+     "電話",
+     "問い合わせ",
+     "連絡先"
+    ],
+    "zh": [
+     "电话",
+     "联系",
+     "咨询"
+    ]
+   },
+   "answer": {
+    "ko": "{이름} 문의 전화는 {전화}예요.\n{이름}에 전화하려면 {전화}로 걸면 돼요.",
+    "en": "Call {이름} at {전화}.\nThe phone number for {이름} is {전화}.",
+    "ja": "{이름}のお問い合わせは{전화}です。",
+    "zh": "{이름}咨询电话：{전화}。"
+   },
+   "screen": "관광지 상세"
+  },
+  {
+   "type": "추천",
+   "keywords": {
+    "ko": [
+     "추천",
+     "갈 만한",
+     "볼 만한",
+     "어디 가",
+     "뭐 하지",
+     "갈 데",
+     "놀 곳",
+     "가볼 곳",
+     "가 볼 곳",
+     "명소",
+     "여행지"
+    ],
+    "en": [
+     "recommend",
+     "must see",
+     "where should",
+     "places to go",
+     "things to do",
+     "sightseeing"
+    ],
+    "ja": [
+     "おすすめ",
+     "見どころ",
+     "観光地",
+     "どこに行"
+    ],
+    "zh": [
+     "推荐",
+     "好玩",
+     "值得去",
+     "景点",
+     "去哪"
+    ]
+   },
+   "answer": {
+    "ko": "이런 곳은 어때요? {추천 3곳}\n여수에 오셨다면 {추천 3곳}은(는) 꼭 가 보세요!\n제가 추천하는 곳은 {추천 3곳}이에요.",
+    "en": "How about these? {추천 3곳}\nIf you're in Yeosu, don't miss {추천 3곳}!",
+    "ja": "こちらはいかがですか? {추천 3곳}\n麗水に来たら{추천 3곳}はぜひ!",
+    "zh": "推荐您去：{추천 3곳}\n来丽水一定要去{추천 3곳}！"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-야경",
+   "keywords": {
+    "ko": [
+     "야경",
+     "밤에",
+     "밤바다",
+     "저녁에",
+     "밤 산책",
+     "불빛"
+    ],
+    "en": [
+     "night view",
+     "at night",
+     "evening",
+     "night sea"
+    ],
+    "ja": [
+     "夜景",
+     "夜に",
+     "夜の海"
+    ],
+    "zh": [
+     "夜景",
+     "晚上",
+     "夜海"
+    ]
+   },
+   "answer": {
+    "ko": "여수는 밤이 정말 예뻐요. {추천 3곳:야경} 어때요?\n밤에는 {추천 3곳:야경}을(를) 추천해요. 여수 밤바다, 직접 보면 더 좋아요.",
+    "en": "Yeosu is beautiful at night. How about {추천 3곳:야경}?",
+    "ja": "麗水は夜がとてもきれいです。{추천 3곳:야경}はいかがですか?",
+    "zh": "丽水的夜晚非常美，推荐{추천 3곳:야경}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-일출",
+   "keywords": {
+    "ko": [
+     "일출",
+     "해돋이",
+     "해맞이",
+     "해 뜨는",
+     "아침 해"
+    ],
+    "en": [
+     "sunrise"
+    ],
+    "ja": [
+     "日の出",
+     "初日の出"
+    ],
+    "zh": [
+     "日出"
+    ]
+   },
+   "answer": {
+    "ko": "{추천 1곳:일출}에서 바다 위로 뜨는 해를 볼 수 있어요.\n해돋이는 {추천 1곳:일출}이 최고예요. 조금 일찍 출발하세요!",
+    "en": "Watch the sun rise over the sea at {추천 1곳:일출}.",
+    "ja": "{추천 1곳:일출}で海から昇る朝日が見られます。",
+    "zh": "在{추천 1곳:일출}可以看到海上日出。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-가족",
+   "keywords": {
+    "ko": [
+     "아이랑",
+     "아이와",
+     "아기",
+     "가족",
+     "어린이",
+     "애들",
+     "부모님"
+    ],
+    "en": [
+     "kids",
+     "children",
+     "family",
+     "with my child"
+    ],
+    "ja": [
+     "子ども",
+     "家族",
+     "子連れ"
+    ],
+    "zh": [
+     "孩子",
+     "小朋友",
+     "家人",
+     "带娃"
+    ]
+   },
+   "answer": {
+    "ko": "가족과 함께라면 {추천 3곳:가족}을(를) 추천해요.\n아이들은 {추천 3곳:가족}을(를) 좋아해요!",
+    "en": "For families, I recommend {추천 3곳:가족}.",
+    "ja": "ご家族なら{추천 3곳:가족}がおすすめです。",
+    "zh": "带家人的话推荐{추천 3곳:가족}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-실내",
+   "keywords": {
+    "ko": [
+     "비 오",
+     "비가",
+     "실내",
+     "더워",
+     "추워",
+     "비 오는 날"
+    ],
+    "en": [
+     "rain",
+     "indoor",
+     "too hot",
+     "too cold"
+    ],
+    "ja": [
+     "雨",
+     "室内",
+     "暑い",
+     "寒い"
+    ],
+    "zh": [
+     "下雨",
+     "室内",
+     "太热",
+     "太冷"
+    ]
+   },
+   "answer": {
+    "ko": "날씨가 궂을 때는 {추천 3곳:실내}을(를) 추천해요.\n실내에서 즐길 곳으로는 {추천 3곳:실내}이(가) 있어요.",
+    "en": "On a rainy day, try {추천 3곳:실내}.",
+    "ja": "雨の日は{추천 3곳:실내}がおすすめです。",
+    "zh": "天气不好时推荐{추천 3곳:실내}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-걷기",
+   "keywords": {
+    "ko": [
+     "산책",
+     "걷기",
+     "걸을",
+     "트레킹",
+     "둘레길",
+     "걷고 싶"
+    ],
+    "en": [
+     "walk",
+     "walking",
+     "trail",
+     "trekking"
+    ],
+    "ja": [
+     "散歩",
+     "散策",
+     "ウォーキング"
+    ],
+    "zh": [
+     "散步",
+     "步道",
+     "徒步"
+    ]
+   },
+   "answer": {
+    "ko": "걷기 좋은 곳으로 {추천 3곳:산책/걷기}을(를) 추천해요.\n바다를 보며 걷고 싶다면 {추천 3곳:산책/걷기}이(가) 좋아요.",
+    "en": "For a nice walk, try {추천 3곳:산책/걷기}.",
+    "ja": "散策なら{추천 3곳:산책/걷기}がおすすめです。",
+    "zh": "想散步的话推荐{추천 3곳:산책/걷기}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-등산",
+   "keywords": {
+    "ko": [
+     "등산",
+     "산에 가",
+     "산행",
+     "하이킹",
+     "정상"
+    ],
+    "en": [
+     "hiking",
+     "mountain",
+     "climb"
+    ],
+    "ja": [
+     "登山",
+     "山登り"
+    ],
+    "zh": [
+     "爬山",
+     "登山"
+    ]
+   },
+   "answer": {
+    "ko": "등산을 좋아하시면 {추천 3곳:등산}을(를) 추천해요.\n산에 오르면 여수 바다가 한눈에 보여요. {추천 3곳:등산} 어때요?",
+    "en": "If you like hiking, try {추천 3곳:등산}.",
+    "ja": "登山がお好きなら{추천 3곳:등산}がおすすめです。",
+    "zh": "喜欢爬山的话推荐{추천 3곳:등산}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-섬",
+   "keywords": {
+    "ko": [
+     "섬 여행",
+     "섬에 가",
+     "섬 가고",
+     "배 타",
+     "배를 타",
+     "무인도"
+    ],
+    "en": [
+     "island",
+     "boat",
+     "ferry"
+    ],
+    "ja": [
+     "島",
+     "船"
+    ],
+    "zh": [
+     "海岛",
+     "坐船",
+     "岛屿"
+    ]
+   },
+   "answer": {
+    "ko": "여수에는 아름다운 섬이 많아요. {추천 3곳:섬}은(는) 어때요?\n배 타고 섬 여행 어때요? {추천 3곳:섬}을(를) 추천해요.",
+    "en": "Yeosu has many beautiful islands. How about {추천 3곳:섬}?",
+    "ja": "麗水には美しい島がたくさんあります。{추천 3곳:섬}はいかがですか?",
+    "zh": "丽水有很多美丽的海岛，推荐{추천 3곳:섬}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-역사",
+   "keywords": {
+    "ko": [
+     "역사",
+     "문화재",
+     "유적",
+     "박물관",
+     "옛날",
+     "조선"
+    ],
+    "en": [
+     "history",
+     "historic",
+     "museum",
+     "heritage"
+    ],
+    "ja": [
+     "歴史",
+     "遺跡",
+     "博物館"
+    ],
+    "zh": [
+     "历史",
+     "古迹",
+     "博物馆"
+    ]
+   },
+   "answer": {
+    "ko": "역사를 좋아하시면 {추천 3곳:역사}을(를) 추천해요.\n여수는 이순신 장군과 인연이 깊은 도시예요. {추천 3곳:역사}에 가 보세요.",
+    "en": "For history lovers: {추천 3곳:역사}.",
+    "ja": "歴史がお好きなら{추천 3곳:역사}がおすすめです。",
+    "zh": "喜欢历史的话推荐{추천 3곳:역사}。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-꽃",
+   "keywords": {
+    "ko": [
+     "꽃",
+     "동백",
+     "진달래",
+     "봄꽃",
+     "꽃구경"
+    ],
+    "en": [
+     "flowers",
+     "camellia",
+     "azalea",
+     "blossom"
+    ],
+    "ja": [
+     "花",
+     "椿",
+     "ツツジ"
+    ],
+    "zh": [
+     "花",
+     "山茶花",
+     "杜鹃"
+    ]
+   },
+   "answer": {
+    "ko": "꽃구경은 {추천 2곳:동백/봄}이 좋아요. 동백은 겨울부터 봄까지, 진달래는 4월 초에 가장 예뻐요.",
+    "en": "For flowers, visit {추천 2곳:동백/봄}. Camellias bloom from winter to spring, and azaleas peak in early April.",
+    "ja": "花見なら{추천 2곳:동백/봄}がおすすめです。椿は冬から春、ツツジは4月初めが見頃です。",
+    "zh": "赏花推荐{추천 2곳:동백/봄}。山茶花冬春盛开，杜鹃花4月初最美。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "추천-드라이브",
+   "keywords": {
+    "ko": [
+     "드라이브",
+     "차로",
+     "운전"
+    ],
+    "en": [
+     "drive",
+     "by car"
+    ],
+    "ja": [
+     "ドライブ"
+    ],
+    "zh": [
+     "自驾",
+     "开车"
+    ]
+   },
+   "answer": {
+    "ko": "드라이브라면 {추천 2곳:드라이브/야경}을(를) 추천해요. 밤에 가면 더 멋져요.",
+    "en": "For a drive, try {추천 2곳:드라이브/야경}. Even better at night.",
+    "ja": "ドライブなら{추천 2곳:드라이브/야경}がおすすめです。夜はさらに素敵です。",
+    "zh": "自驾推荐{추천 2곳:드라이브/야경}，晚上更美。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "사진",
+   "keywords": {
+    "ko": [
+     "사진",
+     "인생샷",
+     "포토존",
+     "사진 찍",
+     "인스타"
+    ],
+    "en": [
+     "photo",
+     "picture",
+     "instagram"
+    ],
+    "ja": [
+     "写真",
+     "映え",
+     "フォト"
+    ],
+    "zh": [
+     "拍照",
+     "照片",
+     "打卡"
+    ]
+   },
+   "answer": {
+    "ko": "사진 찍기 좋은 곳으로 {추천 3곳}을(를) 추천해요. 해 질 무렵에 가면 더 예뻐요.\n인생샷 남기기 좋은 곳은 {추천 3곳}이에요!",
+    "en": "Great photo spots: {추천 3곳}. Go around sunset for the best shots.",
+    "ja": "写真映えするのは{추천 3곳}です。夕方がおすすめです。",
+    "zh": "拍照推荐{추천 3곳}，傍晚去最美。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "코스",
+   "keywords": {
+    "ko": [
+     "코스",
+     "일정",
+     "하루",
+     "반나절",
+     "동선",
+     "순서"
+    ],
+    "en": [
+     "itinerary",
+     "one day",
+     "plan",
+     "route",
+     "course"
+    ],
+    "ja": [
+     "コース",
+     "1日",
+     "日程"
+    ],
+    "zh": [
+     "行程",
+     "一日游",
+     "路线安排"
+    ]
+   },
+   "answer": {
+    "ko": "하루 코스로는 오동도, 진남관, 여수해상케이블카, 여수밤바다 순서를 추천해요. 낮에는 걷고, 밤에는 바다 야경을 즐겨 보세요.",
+    "en": "For one day, try Odongdo, Jinnamgwan Hall, the Yeosu Maritime Cable Car, then the night sea. Walk by day, enjoy the night view after dark.",
+    "ja": "1日コースなら梧桐島、鎮南館、麗水海上ケーブルカー、麗水の夜の海の順がおすすめです。",
+    "zh": "一日游推荐：梧桐岛、镇南馆、丽水海上缆车，晚上欣赏丽水夜海。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "축제",
+   "keywords": {
+    "ko": [
+     "축제",
+     "행사",
+     "요즘 뭐 해",
+     "불꽃",
+     "이벤트",
+     "박람회",
+     "공연",
+     "무슨 일"
+    ],
+    "en": [
+     "festival",
+     "event",
+     "what's on",
+     "fireworks",
+     "expo"
+    ],
+    "ja": [
+     "お祭り",
+     "イベント",
+     "花火",
+     "博覧会"
+    ],
+    "zh": [
+     "节庆",
+     "活动",
+     "烟花",
+     "博览会"
+    ]
+   },
+   "answer": {
+    "ko": "지금 여수에서는 {메인영상 제목}을(를) 하고 있어요.\n요즘 여수는 {메인영상 제목} 소식이 제일 뜨거워요! 처음 화면에서 영상으로 보여 드릴게요.",
+    "en": "Now in Yeosu: {메인영상 제목}.",
+    "ja": "今麗水では{메인영상 제목}が開催中です。",
+    "zh": "丽水正在举办：{메인영상 제목}。"
+   },
+   "screen": "처음 화면"
+  },
+  {
+   "type": "먹거리",
+   "keywords": {
+    "ko": [
+     "맛집",
+     "먹을",
+     "음식",
+     "식당",
+     "배고파",
+     "밥 먹",
+     "뭐 먹",
+     "특산물",
+     "먹거리",
+     "맛있"
+    ],
+    "en": [
+     "food",
+     "eat",
+     "restaurant",
+     "hungry",
+     "delicious"
+    ],
+    "ja": [
+     "グルメ",
+     "食べ物",
+     "レストラン",
+     "お腹すいた",
+     "おいしい"
+    ],
+    "zh": [
+     "美食",
+     "吃饭",
+     "餐厅",
+     "饿了",
+     "好吃"
+    ]
+   },
+   "answer": {
+    "ko": "여수는 간장게장 백반, 돌산 갓김치, 서대회, 장어탕이 유명해요. 맛집 정보는 아직 준비 중이라, 관광통역안내 1330에 물어보시면 자세히 알려 드려요.",
+    "en": "Yeosu is famous for soy-marinated crab with rice, Dolsan mustard-leaf kimchi, raw sole salad and eel soup. Restaurant listings are coming soon. For now, call the 1330 tourist hotline.",
+    "ja": "麗水はカンジャンケジャン定食、突山カラシナキムチ、シタビラメの刺身和え、ウナギスープが有名です。お店の情報は準備中なので、観光案内1330にお問い合わせください。",
+    "zh": "丽水的酱蟹套餐、突山芥菜泡菜、鳎鱼生拌、鳗鱼汤很有名。餐厅信息正在准备中，可拨打旅游咨询电话1330。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "숙소",
+   "keywords": {
+    "ko": [
+     "숙소",
+     "호텔",
+     "잘 곳",
+     "펜션",
+     "게스트하우스",
+     "숙박"
+    ],
+    "en": [
+     "hotel",
+     "stay",
+     "accommodation"
+    ],
+    "ja": [
+     "ホテル",
+     "宿",
+     "泊まる"
+    ],
+    "zh": [
+     "酒店",
+     "住宿",
+     "民宿"
+    ]
+   },
+   "answer": {
+    "ko": "숙소 정보는 아직 준비 중이에요. 관광통역안내 1330에 전화하면 안내받을 수 있어요.",
+    "en": "Accommodation info is coming soon. Please call the 1330 tourist hotline.",
+    "ja": "宿泊情報は準備中です。観光案内1330にお問い合わせください。",
+    "zh": "住宿信息正在准备中，请拨打旅游咨询电话1330。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "관광안내",
+   "keywords": {
+    "ko": [
+     "관광안내",
+     "안내소",
+     "통역",
+     "외국어 안내",
+     "문의처",
+     "상담"
+    ],
+    "en": [
+     "tourist information",
+     "interpreter",
+     "help desk",
+     "hotline"
+    ],
+    "ja": [
+     "観光案内",
+     "通訳",
+     "案内所"
+    ],
+    "zh": [
+     "旅游咨询",
+     "翻译",
+     "咨询处"
+    ]
+   },
+   "answer": {
+    "ko": "관광통역안내 1330에 전화하면 24시간 한국어·영어·일본어·중국어로 여행 안내를 받을 수 있어요.",
+    "en": "Call 1330 for 24-hour travel help in Korean, English, Japanese and Chinese.",
+    "ja": "1330に電話すると、24時間、韓国語・英語・日本語・中国語で旅行案内を受けられます。",
+    "zh": "拨打1330可获得24小时韩、英、日、中文旅游咨询服务。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "날씨",
+   "keywords": {
+    "ko": [
+     "날씨",
+     "비 와",
+     "기온",
+     "우산"
+    ],
+    "en": [
+     "weather",
+     "temperature",
+     "umbrella"
+    ],
+    "ja": [
+     "天気",
+     "気温",
+     "傘"
+    ],
+    "zh": [
+     "天气",
+     "气温",
+     "雨伞"
+    ]
+   },
+   "answer": {
+    "ko": "죄송해요, 날씨 정보는 아직 연결돼 있지 않아요. 비가 오면 '실내 추천'이라고 말씀해 주세요.",
+    "en": "Sorry, weather info isn't connected yet. If it's raining, ask me for indoor places.",
+    "ja": "すみません、天気情報はまだつながっていません。雨なら「室内のおすすめ」と聞いてください。",
+    "zh": "抱歉，天气信息尚未接入。下雨时可以问我“室内推荐”。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "화장실",
+   "keywords": {
+    "ko": [
+     "화장실",
+     "화장실 어디"
+    ],
+    "en": [
+     "toilet",
+     "restroom",
+     "bathroom"
+    ],
+    "ja": [
+     "トイレ",
+     "お手洗い"
+    ],
+    "zh": [
+     "厕所",
+     "洗手间"
+    ]
+   },
+   "answer": {
+    "ko": "화장실 위치는 주변 안내 표지판을 확인해 주세요. 이 키오스크에서는 아직 안내하지 못해요.",
+    "en": "Please check the nearby signs for restrooms. I can't guide you there yet.",
+    "ja": "トイレの場所は周辺の案内表示をご確認ください。",
+    "zh": "洗手间位置请查看附近的指示牌。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "긴급",
+   "keywords": {
+    "ko": [
+     "다쳤",
+     "아파",
+     "병원",
+     "응급",
+     "경찰",
+     "살려",
+     "사고",
+     "분실",
+     "잃어버"
+    ],
+    "en": [
+     "emergency",
+     "hospital",
+     "police",
+     "hurt",
+     "lost"
+    ],
+    "ja": [
+     "救急",
+     "病院",
+     "警察",
+     "怪我",
+     "落とし物"
+    ],
+    "zh": [
+     "急救",
+     "医院",
+     "警察",
+     "受伤",
+     "丢了"
+    ]
+   },
+   "answer": {
+    "ko": "급한 일이면 119(응급·화재)나 112(경찰)에 전화하세요. 잃어버린 물건은 112에 신고할 수 있어요.",
+    "en": "In an emergency, call 119 (ambulance, fire) or 112 (police). You can also report lost items to 112.",
+    "ja": "緊急時は119(救急・火災)か112(警察)に電話してください。落とし物は112に届け出られます。",
+    "zh": "紧急情况请拨打119(急救·火警)或112(警察)。遗失物品也可向112报案。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "인사",
+   "keywords": {
+    "ko": [
+     "안녕",
+     "하이",
+     "반가워",
+     "반갑",
+     "헬로"
+    ],
+    "en": [
+     "hello",
+     "hi",
+     "hey",
+     "good morning"
+    ],
+    "ja": [
+     "こんにちは",
+     "おはよう",
+     "こんばんは"
+    ],
+    "zh": [
+     "你好",
+     "嗨",
+     "早上好"
+    ]
+   },
+   "answer": {
+    "ko": "안녕하세요! 여수 여행 도우미예요. 궁금한 관광지를 말씀해 주세요.\n반가워요! 오늘은 여수 어디로 가 볼까요?\n안녕하세요! 야경, 섬, 맛있는 음식까지 여수는 볼 게 많아요.",
+    "en": "Hello! I'm your Yeosu travel helper. Ask me about any place.\nHi there! Where shall we go in Yeosu today?",
+    "ja": "こんにちは!麗水旅行の案内役です。気になる観光地を聞いてください。\nようこそ!今日は麗水のどこへ行きましょうか?",
+    "zh": "您好！我是丽水旅游向导，想了解哪里请告诉我。\n欢迎！今天想去丽水的哪里呢？"
+   },
+   "screen": ""
+  },
+  {
+   "type": "감사",
+   "keywords": {
+    "ko": [
+     "고마워",
+     "고맙",
+     "감사",
+     "땡큐"
+    ],
+    "en": [
+     "thank",
+     "thanks"
+    ],
+    "ja": [
+     "ありがとう"
+    ],
+    "zh": [
+     "谢谢",
+     "感谢"
+    ]
+   },
+   "answer": {
+    "ko": "천만에요! 즐거운 여수 여행 되세요.\n도움이 됐다니 기뻐요. 또 궁금한 게 있으면 언제든 물어보세요!",
+    "en": "You're welcome! Enjoy your trip to Yeosu.\nGlad I could help. Ask me anytime!",
+    "ja": "どういたしまして!麗水旅行を楽しんでください。",
+    "zh": "不客气！祝您丽水之旅愉快。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "작별",
+   "keywords": {
+    "ko": [
+     "잘 가",
+     "안녕히",
+     "바이",
+     "다음에 봐",
+     "갈게",
+     "수고"
+    ],
+    "en": [
+     "bye",
+     "goodbye",
+     "see you"
+    ],
+    "ja": [
+     "さようなら",
+     "またね",
+     "バイバイ"
+    ],
+    "zh": [
+     "再见",
+     "拜拜"
+    ]
+   },
+   "answer": {
+    "ko": "즐거운 여행 되세요! 여수 밤바다도 꼭 보고 가세요.\n안녕히 가세요! 또 만나요.",
+    "en": "Have a great trip! Don't miss the Yeosu night sea.\nGoodbye! See you again.",
+    "ja": "よい旅を!麗水の夜の海もぜひ見ていってください。",
+    "zh": "旅途愉快！别忘了看看丽水夜海。"
+   },
+   "screen": "처음 화면"
+  },
+  {
+   "type": "정체",
+   "keywords": {
+    "ko": [
+     "너 누구",
+     "넌 누구",
+     "이름이 뭐",
+     "너는 뭐",
+     "누구세요",
+     "로봇이"
+    ],
+    "en": [
+     "who are you",
+     "your name",
+     "are you a robot"
+    ],
+    "ja": [
+     "あなたは誰",
+     "名前は"
+    ],
+    "zh": [
+     "你是谁",
+     "你叫什么"
+    ]
+   },
+   "answer": {
+    "ko": "저는 여수 여행을 도와드리는 안내 도우미예요. 여수 10경, 관광지, 축제를 알려 드릴 수 있어요.",
+    "en": "I'm a guide that helps you travel around Yeosu. I can tell you about the 10 scenic sights, attractions and festivals.",
+    "ja": "麗水旅行をお手伝いする案内役です。麗水10景や観光地、お祭りをご案内できます。",
+    "zh": "我是丽水旅游向导，可以为您介绍丽水十景、景点和节庆。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "도움말",
+   "keywords": {
+    "ko": [
+     "뭐 할 수",
+     "뭘 물어",
+     "뭐 물어",
+     "도와줘",
+     "도움말",
+     "사용법",
+     "어떻게 써"
+    ],
+    "en": [
+     "help",
+     "what can you do",
+     "how to use"
+    ],
+    "ja": [
+     "使い方",
+     "何ができる",
+     "助けて"
+    ],
+    "zh": [
+     "帮助",
+     "怎么用",
+     "你能做什么"
+    ]
+   },
+   "answer": {
+    "ko": "이렇게 물어보세요. '오동도 가는 법', '야경 명소 추천해 줘', '아이랑 갈 만한 곳', '요즘 무슨 축제 해요?'",
+    "en": "Try asking: 'How to get to Odongdo', 'Night view spots', 'Places for kids', 'Any festivals now?'",
+    "ja": "こう聞いてみてください。「梧桐島への行き方」「夜景のおすすめ」「子連れで行ける所」「今どんなお祭り?」",
+    "zh": "可以这样问：“梧桐岛怎么去”“推荐夜景”“适合带孩子的地方”“最近有什么节庆”。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "칭찬",
+   "keywords": {
+    "ko": [
+     "귀여워",
+     "귀엽",
+     "똑똑",
+     "최고야",
+     "잘한다",
+     "예쁘다",
+     "착하"
+    ],
+    "en": [
+     "cute",
+     "smart",
+     "awesome",
+     "great job"
+    ],
+    "ja": [
+     "かわいい",
+     "すごい",
+     "賢い"
+    ],
+    "zh": [
+     "可爱",
+     "聪明",
+     "厉害"
+    ]
+   },
+   "answer": {
+    "ko": "헤헤, 고마워요! 여수 여행도 최고로 즐거우실 거예요.\n칭찬 들으니 힘이 나요! 더 궁금한 거 있으세요?",
+    "en": "Hehe, thank you! I hope your trip is just as great.",
+    "ja": "えへへ、ありがとう!麗水旅行も最高に楽しんでくださいね。",
+    "zh": "嘿嘿，谢谢！祝您在丽水玩得开心。"
+   },
+   "screen": ""
+  },
+  {
+   "type": "최애",
+   "keywords": {
+    "ko": [
+     "제일 좋아",
+     "최애",
+     "가장 좋",
+     "가장 예쁜",
+     "네가 좋아",
+     "너는 어디"
+    ],
+    "en": [
+     "your favorite",
+     "favourite",
+     "best place"
+    ],
+    "ja": [
+     "一番好き",
+     "お気に入り"
+    ],
+    "zh": [
+     "最喜欢",
+     "最好看"
+    ]
+   },
+   "answer": {
+    "ko": "저는 {추천 1곳}을(를) 제일 좋아해요! 한번 보여 드릴게요.\n음… 고르기 어렵지만 {추천 1곳}이요! 보여 드릴게요.",
+    "en": "My favorite is {추천 1곳}! Let me show you.",
+    "ja": "私のお気に入りは{추천 1곳}です!お見せしますね。",
+    "zh": "我最喜欢{추천 1곳}！给您看看。"
+   },
+   "screen": "10경 지도"
+  },
+  {
+   "type": "처음으로",
+   "keywords": {
+    "ko": [
+     "처음으로",
+     "처음 화면",
+     "메인 화면",
+     "홈으로",
+     "돌아가"
+    ],
+    "en": [
+     "home",
+     "go back",
+     "main screen",
+     "start over"
+    ],
+    "ja": [
+     "ホーム",
+     "最初の画面",
+     "戻る"
+    ],
+    "zh": [
+     "首页",
+     "返回",
+     "主页"
+    ]
+   },
+   "answer": {
+    "ko": "처음 화면으로 갈게요.",
+    "en": "Going back to the home screen.",
+    "ja": "最初の画面に戻ります。",
+    "zh": "返回首页。"
+   },
+   "screen": "처음 화면"
+  },
+  {
+   "type": "다시",
+   "keywords": {
+    "ko": [
+     "다시 말해",
+     "뭐라고",
+     "못 들었",
+     "한 번 더",
+     "다시 한번"
+    ],
+    "en": [
+     "say again",
+     "repeat",
+     "pardon",
+     "what did you say"
+    ],
+    "ja": [
+     "もう一度",
+     "聞こえない"
+    ],
+    "zh": [
+     "再说一遍",
+     "没听清"
+    ]
+   },
+   "answer": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "screen": "다시 듣기"
+  },
+  {
+   "type": "언어-영어",
+   "keywords": {
+    "ko": [
+     "영어로",
+     "영어 안내",
+     "잉글리시"
+    ],
+    "en": [
+     "english"
+    ],
+    "ja": [
+     "英語"
+    ],
+    "zh": [
+     "英语"
+    ]
+   },
+   "answer": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "screen": "언어:en"
+  },
+  {
+   "type": "언어-일본어",
+   "keywords": {
+    "ko": [
+     "일본어로",
+     "일본어 안내"
+    ],
+    "en": [
+     "japanese"
+    ],
+    "ja": [
+     "日本語"
+    ],
+    "zh": [
+     "日语"
+    ]
+   },
+   "answer": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "screen": "언어:ja"
+  },
+  {
+   "type": "언어-중국어",
+   "keywords": {
+    "ko": [
+     "중국어로",
+     "중국어 안내"
+    ],
+    "en": [
+     "chinese"
+    ],
+    "ja": [
+     "中国語"
+    ],
+    "zh": [
+     "中文",
+     "汉语"
+    ]
+   },
+   "answer": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "screen": "언어:zh"
+  },
+  {
+   "type": "언어-한국어",
+   "keywords": {
+    "ko": [
+     "한국어로",
+     "한국말"
+    ],
+    "en": [
+     "korean"
+    ],
+    "ja": [
+     "韓国語"
+    ],
+    "zh": [
+     "韩语"
+    ]
+   },
+   "answer": {
+    "ko": "",
+    "en": "",
+    "ja": "",
+    "zh": ""
+   },
+   "screen": "언어:ko"
+  }
+ ],
+ "texts": {
+  "guide.title": {
+   "ko": "AI 여행 가이드",
+   "en": "AI Travel Guide",
+   "ja": "AI旅行ガイド",
+   "zh": "AI旅行向导"
+  },
+  "guide.ask": {
+   "ko": "무엇이든 물어보세요",
+   "en": "Ask me anything",
+   "ja": "何でも聞いてください",
+   "zh": "有问题尽管问"
+  },
+  "guide.hello": {
+   "ko": "안녕하세요! 여수 여행을 도와드릴게요.",
+   "en": "Hello! I'll help you explore Yeosu.",
+   "ja": "こんにちは!麗水旅行をお手伝いします。",
+   "zh": "您好！我来帮您畅游丽水。"
+  },
+  "guide.hint1": {
+   "ko": "지도에서 궁금한 관광지를 선택해 주세요.",
+   "en": "Choose a place on the map to learn more.",
+   "ja": "地図で気になる観光地を選んでください。",
+   "zh": "请在地图上选择想了解的景点。"
+  },
+  "guide.hint2": {
+   "ko": "버튼을 누르거나 말로 질문해도 좋아요!",
+   "en": "Tap a button or just ask out loud!",
+   "ja": "ボタンを押しても、話しかけてもOKです!",
+   "zh": "可以点按钮，也可以直接说话提问！"
+  },
+  "btn.talk": {
+   "ko": "눌러서 말하기",
+   "en": "Tap to talk",
+   "ja": "押して話す",
+   "zh": "按下说话"
+  },
+  "btn.voiceOn": {
+   "ko": "음성 안내 켜짐",
+   "en": "Voice guide on",
+   "ja": "音声案内オン",
+   "zh": "语音导览已开启"
+  },
+  "btn.mute": {
+   "ko": "음소거",
+   "en": "Mute",
+   "ja": "ミュート",
+   "zh": "静音"
+  },
+  "btn.replay": {
+   "ko": "다시 듣기",
+   "en": "Replay",
+   "ja": "もう一度聞く",
+   "zh": "再听一遍"
+  },
+  "btn.type": {
+   "ko": "글자로 질문",
+   "en": "Type a question",
+   "ja": "文字で質問",
+   "zh": "文字提问"
+  },
+  "btn.home": {
+   "ko": "처음 화면",
+   "en": "Home",
+   "ja": "ホーム",
+   "zh": "首页"
+  },
+  "hint.lang": {
+   "ko": "먼저 언어를 골라 주세요",
+   "en": "Tap your language first",
+   "ja": "言語を選んでください",
+   "zh": "请先选择语言"
+  },
+  "msg.notUnderstood": {
+   "ko": "잘 못 들었어요. 이렇게 물어보세요.",
+   "en": "Sorry, I didn't catch that. Try asking like this.",
+   "ja": "よく聞き取れませんでした。このように聞いてみてください。",
+   "zh": "没听清楚，请这样问。"
+  },
+  "leftMap": {
+   "ko": "여행지도",
+   "en": "Travel map",
+   "ja": "旅行マップ",
+   "zh": "旅游地图"
+  },
+  "leftFest": {
+   "ko": "축제홍보",
+   "en": "Festivals",
+   "ja": "お祭り",
+   "zh": "节庆活动"
+  },
+  "view.map": {
+   "ko": "지도",
+   "en": "Map",
+   "ja": "地図",
+   "zh": "地图"
+  },
+  "view.video": {
+   "ko": "영상",
+   "en": "Video",
+   "ja": "映像",
+   "zh": "视频"
+  },
+  "watch": {
+   "ko": "▶ 영상 보기",
+   "en": "▶ Watch video",
+   "ja": "▶ 映像を見る",
+   "zh": "▶ 观看视频"
+  },
+  "soundOn": {
+   "ko": "🔊 소리 켜기",
+   "en": "🔊 Sound on",
+   "ja": "🔊 音を出す",
+   "zh": "🔊 打开声音"
+  },
+  "soundOff": {
+   "ko": "🔇 소리 끄기",
+   "en": "🔇 Sound off",
+   "ja": "🔇 消音",
+   "zh": "🔇 关闭声音"
+  },
+  "address": {
+   "ko": "주소",
+   "en": "Address",
+   "ja": "住所",
+   "zh": "地址"
+  },
+  "tel": {
+   "ko": "전화",
+   "en": "Phone",
+   "ja": "電話",
+   "zh": "电话"
+  },
+  "hours": {
+   "ko": "운영시간",
+   "en": "Hours",
+   "ja": "営業時間",
+   "zh": "开放时间"
+  },
+  "fee": {
+   "ko": "요금",
+   "en": "Fee",
+   "ja": "料金",
+   "zh": "费用"
+  },
+  "transit": {
+   "ko": "가는 법",
+   "en": "Getting there",
+   "ja": "アクセス",
+   "zh": "交通"
+  },
+  "listening": {
+   "ko": "듣고 있어요… 말씀해 주세요",
+   "en": "Listening… please speak",
+   "ja": "聞いています…どうぞ",
+   "zh": "正在聆听…请说话"
+  },
+  "stop": {
+   "ko": "그만 듣기",
+   "en": "Stop",
+   "ja": "停止",
+   "zh": "停止"
+  },
+  "typeTitle": {
+   "ko": "글자로 질문",
+   "en": "Type a question",
+   "ja": "文字で質問",
+   "zh": "文字提问"
+  },
+  "typePh": {
+   "ko": "예: 오동도 가는 법",
+   "en": "e.g. How to get to Odongdo",
+   "ja": "例: 梧桐島への行き方",
+   "zh": "例如: 梧桐岛怎么去"
+  },
+  "ask": {
+   "ko": "질문하기",
+   "en": "Ask",
+   "ja": "質問する",
+   "zh": "提问"
+  },
+  "whichPlace": {
+   "ko": "어느 관광지가 궁금하세요? 지도에서 골라 주세요.",
+   "en": "Which place would you like to know about? Choose one on the map.",
+   "ja": "どの観光地について知りたいですか？地図から選んでください。",
+   "zh": "您想了解哪个景点？请在地图上选择。"
+  },
+  "noInfo": {
+   "ko": "{이름}의 이 정보는 아직 준비 중이에요. 관광통역안내 1330으로 문의해 주세요.",
+   "en": "This information for {이름} isn't ready yet. Please call the tourist hotline 1330.",
+   "ja": "{이름}のこの情報は準備中です。観光案内1330にお問い合わせください。",
+   "zh": "{이름}的该信息正在准备中，请拨打旅游咨询电话1330。"
+  },
+  "noFestival": {
+   "ko": "지금 안내 중인 축제가 없어요.",
+   "en": "No festivals are listed right now.",
+   "ja": "現在ご案内中のお祭りはありません。",
+   "zh": "目前没有正在介绍的节庆。"
+  },
+  "noVideo": {
+   "ko": "영상 준비 중",
+   "en": "Video coming soon",
+   "ja": "映像準備中",
+   "zh": "视频准备中"
+  },
+  "noMedia": {
+   "ko": "표시할 영상이 없어요.",
+   "en": "No videos to show.",
+   "ja": "表示する映像がありません。",
+   "zh": "没有可显示的视频。"
+  },
+  "noData": {
+   "ko": "안내 자료를 불러오지 못했어요.",
+   "en": "Couldn't load the guide data.",
+   "ja": "案内データを読み込めませんでした。",
+   "zh": "无法加载导览数据。"
+  }
+ },
+ "settings": {
+  "topImage": null,
+  "slotsPerScreen": 2,
+  "playTogether": false,
+  "loop": true,
+  "onTouch": "반응 없음",
+  "idleSeconds": 90,
+  "defaultLang": "ko",
+  "applyTime": "3:00",
+  "statusUrl": "https://script.google.com/macros/s/AKfycbwKb7fe9wU0uuTOsj8Cb-HvLILuwiosW2d-1x0Q8c668CO__mEmbv1ZqH9guyG7cDdtHQ/exec"
+ },
+ "warnings": [
+  "[메인영상] 8행: '미디어 주소' 칸이 비어 있어요",
+  "[여수10경] 3행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 4행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 5행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 6행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 7행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 8행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 9행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 10행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 11행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[여수10경] 12행: '확대지도 이미지 주소' 칸이 비어 있어요",
+  "[질문사전] 37행: '답변 틀_ko' 칸이 비어 있어요",
+  "[질문사전] 38행: '답변 틀_ko' 칸이 비어 있어요",
+  "[질문사전] 39행: '답변 틀_ko' 칸이 비어 있어요",
+  "[질문사전] 40행: '답변 틀_ko' 칸이 비어 있어요",
+  "[질문사전] 41행: '답변 틀_ko' 칸이 비어 있어요"
+ ]
+}
