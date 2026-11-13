@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="description" content="관광 안내와 AI 포토존을 한 화면에서 체험하세요">
+<title>여수 AI 스마트 여행안내</title>
+<link rel="preload" as="image" href="assets/yeosu-kiosk-v2.png">
+<link rel="stylesheet" href="css/original.css">
+<link rel="stylesheet" href="css/kiosk.css">
+</head>
+<body>
+<div class="kiosk-stage">
+<main class="yeosu-kiosk" id="kiosk" aria-label="여수 AI 스마트 여행안내">
+  <img class="kiosk-artwork" src="assets/yeosu-kiosk-v2.png" alt="여수 AI 스마트 여행안내. 관광지 찾기, 교통·주차, 맛집·카페, 추천 코스, AI 여행 가이드">
+  <div class="k-art-labels" id="artLabels" aria-hidden="true" hidden></div>
+  <button class="k-admin-hit" id="adminHit" aria-label="여수시" tabindex="-1"></button>
+  <nav class="map-place-hotspots" id="hotspots" aria-label="관광지 18곳"></nav>
+  <div class="kiosk-content" id="content" hidden></div>
+  <!-- 그림에 그려진 버튼 위에 얹는 투명 터치 영역 (위치: js/data.js 의 uiHotspots) -->
+  <nav class="k-ui" id="uiHot" aria-label="안내 메뉴"></nav>
+
+  <div class="k-modal" id="modal" role="dialog" aria-modal="true" hidden>
+    <div class="k-modal-box" id="modalBox">
+      <header><span id="modalLabel"></span><button class="k-modal-x" id="modalClose" aria-label="닫기" data-i18n-label><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg></button></header>
+      <div class="k-modal-body" id="modalBody"></div>
+    </div>
+  </div>
+  <div class="k-listening" id="listening" hidden>
+    <div class="k-wave"><i></i><i></i><i></i><i></i><i></i></div>
+    <p id="listeningText">듣고 있어요… 말씀해 주세요</p>
+    <button id="listeningStop" data-i18n>그만 듣기</button>
+  </div>
+  <div class="k-toast" id="toast" role="status"></div>
+</main>
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/sheet-data.js"></script>
+<script src="js/data.js"></script>
+<script src="js/data-yeosu.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/i18n-data.js"></script>
+<script src="js/i18n-text.js"></script>
+<script src="js/qrcode.js"></script>
+<script src="js/bridge.js"></script>
+<script src="js/wiki.js"></script>
+<script src="js/video.js"></script>
+<script src="js/app.js"></script>
+<script src="js/screens.js"></script>
+<script src="js/finder.js"></script>
+<script src="js/photozone.js"></script>
+</body>
+</html>
